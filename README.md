@@ -1,3 +1,3 @@
-## Airbnb Homepage Clone
+## Airbnb Webpage Clone
 
 Created using HTML, TailwindCSS.
